@@ -4,7 +4,8 @@ Get the stats of your selfhosted umami-instance and use them in your 11ty-projec
 
 ## How to use
 
-1. In your `.eleventy.js`:
+1. Install this plugin with `npm install eleventy-plugin-umami`
+2. In your `.eleventy.js`:
 
 ```js
 const umamiPlugin = require('eleventy-plugin-umami');
@@ -56,6 +57,8 @@ module.exports = function (eleventyConfig) {
 
 This plugin creates a collection which includes all of the data that the stats-endpoint of the umami-API offers
 ```json
+
+// Example-values
 {
   "pageviews": { "value": 3018, "prev": 3508 },
   "visitors": { "value": 847, "prev": 910 },
