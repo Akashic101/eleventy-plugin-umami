@@ -29,7 +29,7 @@ module.exports = function (eleventyConfig) {
 |--------------|-----------------------------------------------------------------------------|
 | `url`        | Defines the URL of your Umami instance. Only self-hosted instances are supported. |
 | `username`   | Defines the username used for logging into Umami.                           |
-| `password`   | Defines the token used for logging into Umami.                             |
+| `password`   | Defines the password used for logging into Umami.                             |
 | `websiteId`  | Defines the unique ID for your website.                                     |
 | `start`  | Defines the start-date of the stats. This need to be in milliseconds. The js-function for this is `getTime()`, moment uses `valueOf()`. 
 | `end`  | Defines the end-date of the stats. This need to be in milliseconds. The js-function for this is `getTime()`, moment uses `valueOf()`. 
