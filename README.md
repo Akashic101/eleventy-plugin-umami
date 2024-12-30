@@ -1,6 +1,6 @@
 # eleventy-plugin-umami
 
-Get the stats of your selfhosted [umami](https://umami.is/)-instance and use them in your [11ty](https://www.11ty.dev/)-project using this plugin
+Get the stats of your selfhosted [umami](https://umami.is/)-instance and use them in your [11ty](https://www.11ty.dev/)-project using this plugin. You can find the page of the npm-package here: https://www.npmjs.com/package/eleventy-plugin-umami
 
 ## How to use
 
