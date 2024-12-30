@@ -12,5 +12,13 @@
     "umami"
   ],
   "author": "David Moll (contact@davidmoll.net)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akashic101/eleventy-plugin-umami.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akashic101/eleventy-plugin-umami/issues"
+  },
+  "homepage": "https://github.com/Akashic101/eleventy-plugin-umami#readme"
 }
