@@ -90,3 +90,8 @@ which renders like this
 | `visits`    | 984   | 1080           |
 | `bounces`   | 537   | 628            |
 | `totaltime` | 150492| 164713         |
+
+## TODO
+
+* Right now this plugin only supports a single websiteId. In the future I would like to add support for more multiple id's.
+* Umami offers more data in other endpoints such as active users, events, metric for specific subpages and pageviews in a specific timeframe. Enabling those would be a nice addition.
