@@ -1,7 +1,7 @@
 {
   "name": "eleventy-plugin-umami",
   "type": "commonjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A 11ty-plugin to get data from a umami-instance",
   "main": "plugin.js",
   "scripts": {
