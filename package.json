@@ -1,19 +1,16 @@
 {
   "name": "eleventy-plugin-umami",
   "type": "commonjs",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A 11ty-plugin to get data from a umami-instance",
   "main": "plugin.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "11ty",
     "eleventy-plugin",
     "umami"
   ],
   "author": "David Moll (contact@davidmoll.net)",
-  "license": "ISC",
+  "license": "CC BY-NC-SA 4.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Akashic101/eleventy-plugin-umami.git"
@@ -21,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/Akashic101/eleventy-plugin-umami/issues"
   },
-  "homepage": "https://github.com/Akashic101/eleventy-plugin-umami#readme",
-  "dependencies": {
-    "axios": "^1.7.9"
-  }
+  "homepage": "https://github.com/Akashic101/eleventy-plugin-umami#readme"
 }
